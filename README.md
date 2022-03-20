@@ -119,7 +119,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Python Tutorial  | Tutlane](https://www.tutlane.com/tutorial/python)
     - [Python Tutor  | For Visualization](https://pythontutor.com/visualize.html#mode=edit)
     - [Code Combat (Python and JavaScript options)](https://codecombat.com/)
-
+(https://elementtutorials.com/html/html-tutorial.html)
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
